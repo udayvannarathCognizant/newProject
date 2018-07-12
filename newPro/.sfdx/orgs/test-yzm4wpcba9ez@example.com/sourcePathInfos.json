@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531378310795,
+            "changeTime": 1531378310795,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531378310795,
+            "changeTime": 1531378310795,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531378310795,
+            "changeTime": 1531378310795,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531379523954,
+            "changeTime": 1531379523954,
+            "contentHash": "98d3432e6d8efaa527b6ca2a54bd27e08dfe7a47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531379523972,
+            "changeTime": 1531379523972,
+            "contentHash": "dbaaee35049c001527ef8c77dc1f3ce7586126c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1531379523970,
+            "changeTime": 1531379523970,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 176,
+            "modifiedTime": 1531379735255,
+            "changeTime": 1531379735255,
+            "contentHash": "23928f3e505bff24bbef68bfa8993e8418e9cc62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1531379523958,
+            "changeTime": 1531379523958,
+            "contentHash": "d22d98376bbfb563b181c905f8d45496d5d1753d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1531379523965,
+            "changeTime": 1531379523965,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1531379523972,
+            "changeTime": 1531379523972,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1531379523969,
+            "changeTime": 1531379523969,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 107,
+            "modifiedTime": 1531380052347,
+            "changeTime": 1531380052347,
+            "contentHash": "a77abce7085cdc96c34a1e26bce4351b7da26fc5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1531379523962,
+            "changeTime": 1531379523962,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1531379523967,
+            "changeTime": 1531379523967,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\uvannarath\\newProject\\newProject\\newPro",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\uvannarath\\newProject\\newProject\\newPro",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531379491447,
+            "changeTime": 1531379491447,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
