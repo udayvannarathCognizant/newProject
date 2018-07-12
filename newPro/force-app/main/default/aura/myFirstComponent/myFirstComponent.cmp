@@ -3,5 +3,5 @@
     Welcome to my first component 
 </div>
 <aura:attribute name="name" type="string" />
-<aura:handler name="init" action="{!c.doinit}"  value="{!this}/>
+<aura:handler name="init" action="{!c.doinit}"  value="{!this}" />
 </aura:component>	
